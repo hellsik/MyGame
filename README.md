@@ -1,2 +1,6 @@
 # MyGame
-Próbka kodu, projekt w Visual Studio 2015.
+Próbka kodu dla Unified Factory, projekt w Visual Studio 2015.
+
+Pozdrawiam
+
+Hubert Oleksiuk
